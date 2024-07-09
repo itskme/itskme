@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itskme
-- 👀 I’m interested in web design
-- 🌱 I’m currently learning nothing
+- 👀 I’m interested in all things tech.
+- 🌱 I’m always learning as I go. I love it!
 
 
 <!---
